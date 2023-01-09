@@ -1,32 +1,26 @@
 # PyBer Analysis
 
-## Overview
+## Overview 
 
-The purpose of this new analysis is to examine the differences in ride-sharing data among the different city types (rural, suburban, and urban). This analysis will provide insights on trends and patterns in the data, and ultimately help inform decision making and strategy for the CEO of PyBer.
+This new research aims to compare and contrast the ride-sharing statistics of various metropolitan areas (rural, suburban, and urban). The CEO of PyBer will benefit from this study since it will reveal patterns and trends in the data, allowing them to make informed decisions. 
 
-## Results
+## Results 
 
-### Total Rides, Drivers, and Fares by City Type
-We can see that the number of rides, drivers, and fares differ greatly among the three city types. Rural cities have the fewest total rides, drivers, and fares, while urban cities have the most.
+<img width="753" alt="Pyber Results" src="https://user-images.githubusercontent.com/114355199/211226977-d0ebdc11-18d9-4c55-92f2-131f858d1248.png">
 
-Average Fare per Ride and Driver by City Type
-Additionally, we can see that the average fare per ride and per driver also differs among the city types. On average, rural cities have the highest fares per ride and per driver, while urban cities have the lowest.
 
-City Type	Average Fare per Ride	Average Fare per Driver
-Rural	$34.62	$55.49
-Suburban	$30.97	$39.50
-Urban	$24.53	$16.57
-Total Fare by City Type
-Finally, we can see that the total fare by city type follows a similar trend as the other metrics. Rural cities have the lowest total fares, while urban cities have the highest.
+### Number of Trips, Drivers, and Fares in Different Categories of Cities 
+The numbers of trips, drivers, and average rates vary significantly amongst the three categories of cities. Urban areas have more riders, drivers, and revenue than suburban or rural counterparts. 
 
-City Type	Total Fare
-Rural	$4,327.93
-Suburban	$19,356.33
-Urban	$39,854.38
-Summary
 
-Based on the analysis of the ride-sharing data, we recommend the following three business recommendations to the CEO for addressing any disparities among the city types:
+### Distance traveled and average fare by city. 
+Varying sorts of cities have notably different average fares for rides and drivers. The average cost of a ride and driver is highest in less crowded areas and lowest in more populated ones. 
 
-Increase marketing and outreach efforts in urban cities to further expand the PyBer brand and capture a larger share of the market.
-Consider offering incentives or promotions to attract and retain drivers in suburban and rural cities, as these areas have fewer total rides and drivers compared to urban cities.
-Analyze the data on a regular basis to monitor trends and identify opportunities for growth and improvement in all city types.
+![PyBer_fare_summary](https://user-images.githubusercontent.com/114355199/211227008-d659217e-1216-4d30-9f03-d6c4fbd6ea22.png)
+
+## Summary
+
+### Here are three recommendations for the CEO based on our analysis of the ride-sharing data to account for variations across city types: 
+ - Boost city-specific marketing and community engagement to expand the PyBer brand and capture a larger market share. 
+ - Since there are fewer rides and drivers in suburban and rural areas, offering incentives or special discounts may be worthwhile to attract and retain drivers there. 
+ - The data should be analyzed regularly to track changes and identify opportunities for improvement in urban areas of all types.
