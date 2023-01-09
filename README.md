@@ -21,6 +21,6 @@ Varying sorts of cities have notably different average fares for rides and drive
 ## Summary
 
 ### Here are three recommendations for the CEO based on our analysis of the ride-sharing data to account for variations across city types: 
- - Boost city-specific marketing and community engagement to expand the PyBer brand and capture a larger market share. 
+ - Boost city-specific marketing and community engagement to expand the PyBer brand and capture a larger market share. There are way more drivers available than fares.
  - Since there are fewer rides and drivers in suburban and rural areas, offering incentives or special discounts may be worthwhile to attract and retain drivers there. 
  - The data should be analyzed regularly to track changes and identify opportunities for improvement in urban areas of all types.
